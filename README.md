@@ -11,6 +11,8 @@
 [<img align="left" alt="my outlook mail" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg"/>][outlook]
 [<img align="left" alt="my linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
+<br />
+
 ### Languages and tools that I used:
 [<img align="left" alt="HTML" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="PHP" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]
@@ -27,6 +29,9 @@
 [<img align="left" alt="Android Studio" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />]
 [<img align="left" alt="Sublime Text" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />]
 [<img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+
+<br />
+<br />
 
 [agrego]: https://agrego.id/
 [gmail]: youdant@gmail.com

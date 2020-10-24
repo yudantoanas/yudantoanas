@@ -1,6 +1,4 @@
 ### Hi there, I'm Yudanto
-
-## I'm an aspiring Developer
 - 🔭 Currently working as Android & Golang Developer at [Agrego Commerce][agrego]
 - 🔭 Also a part-time freelancer at [Upwork][upwork], [Fiverr][fiverr], [Freelancer.com][freelancer], [Projects.co.id][projects], and [Fastwork][fastwork]
 - 🔭 Looking to collaborate as well with other great developers and thinkers out there. I'm very open to your exciting projects!

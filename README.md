@@ -1,7 +1,7 @@
 ### Hi there, I'm Yudanto
 - Currently working as Android Developer at [Agrego Commerce][agrego]
 - Looking to collaborate as well with other great developers and thinkers out there. I'm very open to your exciting projects!
-- Sometimes I pour my knowledge and insights in [Medium][medium]
+- Sometimes I pour my knowledge and insights on [Medium][medium]
 
 ### Connect with me:
 [<img align="left" alt="my gmail" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]

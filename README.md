@@ -13,7 +13,6 @@
 <img align="left" alt="HTML" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="PHP" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="Laravel" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Codeigniter" height="26" width="26" src="https://www.codeigniter.com/assets/images/codeigniter4logo.png" />
 <img align="left" alt="Golang" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Java" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Kotlin" height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
@@ -26,7 +25,6 @@
 <br />
 <br />
 
-[agrego]: https://agrego.id/
 [gmail]: youdant@gmail.com
 [outlook]: yudantoanas@hotmail.com
 [linkedin]: https://linkedin.com/in/yudantoanas

@@ -1,5 +1,4 @@
 ### Hi there, I'm Yudanto
-- Currently working as Android Developer at [Agrego Commerce][agrego]
 - Looking to collaborate as well with other great developers and thinkers out there. I'm very open to your exciting projects!
 - Sometimes I pour my knowledge and insights on [Medium][medium]
 

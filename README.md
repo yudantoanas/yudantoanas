@@ -1,5 +1,29 @@
-# Hi, I’m Yuda 👋
+# Hi, Yuda here! 👋
 
-- Welcome to my humble repository where I craft, experiment, and build cool and exciting stuffs here! 
-- Check my portfolio site [here](https://yudanto.vercel.app)
-- Open to new opportunities, email me at `yudanto.anas@gmail.com`
+- Experienced Software Developer and Programming Instructor from 🇮🇩
+- Interested in developing Mobile app, Back-end, and Data Engineering.
+- Open to new opportunities, let's get in touch 👉 **<yudanto.anas@gmail.com>**
+
+## Project Showcase
+
+These are my public projects that I have worked on.
+
+### Mobile App
+
+> coming soon!
+
+### Back-end Development
+
+> coming soon!
+
+### Data Engineering
+
+> coming soon!
+
+### Sandbox Projects
+
+- [Mossquito](https://github.com/yudantoanas/mossquito)
+
+  Python notebook pre-processing Pipeline that **extracts** ➡️ **converts** ➡️ **detects** content plagiarism using [MOSS](https://theory.stanford.edu/~aiken/moss/)
+
+  **Tech-stack**: `Python`, `Bash script`

@@ -23,7 +23,6 @@ These are my public projects that I have worked on.
 ### Sandbox Projects
 
 - [Mossquito](https://github.com/yudantoanas/mossquito)
-
-  Python notebook pre-processing Pipeline that **extracts** ➡️ **converts** ➡️ **detects** content plagiarism using [MOSS](https://theory.stanford.edu/~aiken/moss/)
-
-  **Tech-stack**: `Python`, `Bash script`
+  > Python notebook pre-processing Pipeline that **extracts** ➡️ **converts** ➡️ **detects** content plagiarism using [MOSS](https://theory.stanford.edu/~aiken/moss/)
+  >
+  > **Tech-stack**: `Python`, `Bash script`

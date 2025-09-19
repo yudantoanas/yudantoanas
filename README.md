@@ -4,7 +4,7 @@
 - Interested in developing Mobile app, Back-end, and Data Engineering.
 - Open to new opportunities, let's get in touch 👉 **<yudanto.anas@gmail.com>**
 
-## Company I've Worked On
+## Companies I've Worked On
 
 ### Agrego Commerce
 

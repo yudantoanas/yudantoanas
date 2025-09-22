@@ -1,7 +1,7 @@
 # Hi, Yuda here! 👋
 
 - Software Developer and Programming Instructor from 🇮🇩
-- Interested in developing Mobile app, Back-end, and Data Engineering.
+- Specialized in Mobile app, Back-end, and Data Science.
 - Open to new opportunities, let's get in touch 👉 **<yudanto.anas@gmail.com>**
 
 ## Project Showcase

@@ -1,6 +1,6 @@
 # Hi, Yuda here! 👋
 
-- Experienced Software Developer and Programming Instructor from 🇮🇩
+- Software Developer and Programming Instructor from 🇮🇩
 - Interested in developing Mobile app, Back-end, and Data Engineering.
 - Open to new opportunities, let's get in touch 👉 **<yudanto.anas@gmail.com>**
 
@@ -18,7 +18,7 @@ These are my projects that I have worked on.
 
 ### Data Science
 
-- [Auto Sales EDA](https://github.com/yudantoanas/auto-sales-eda)
+- [Auto Sales EDA Pipeline](https://github.com/yudantoanas/auto-sales-eda-pipeline)
 
 ### Miscellaneous
 

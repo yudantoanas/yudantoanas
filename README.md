@@ -16,13 +16,10 @@ These are my projects that I have worked on.
 
 > coming soon!
 
-### Data Engineering
+### Data Science
 
-> coming soon!
+- [Auto Sales EDA](https://github.com/yudantoanas/auto-sales-eda)
 
-### Sandbox Projects
+### Miscellaneous
 
 - [Mossquito](https://github.com/yudantoanas/mossquito)
-  > Python notebook pre-processing Pipeline that **extracts** ➡️ **converts** ➡️ **detects** content plagiarism using [MOSS](https://theory.stanford.edu/~aiken/moss/)
-  >
-  > **Tech-stack**: `Python`, `Bash script`

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🏫 Full-time Instructor at Hacktiv8<br>👨🏻‍💻 Part-time Software Developer<br>🏎️ F1 enthusiast<br>💬 Let's keep in touch: yudanto.anas@gmail.com<br>
+👨🏻‍🏫 Full-time Instructor at Hacktiv8<br>👨🏻‍💻 Part-time Software Developer<br>🏎️ F1 enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yudanto.anas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yudantoanas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yudanto.anas@gmail.com) 

@@ -19,11 +19,7 @@ These are my projects that I have worked on.
 
 ### Mobile App
 
-> coming soon!
-
-### Back-end Development
-
-> coming soon!
+- [Occurrence](https://github.com/yuda-sandbox/sample-occurrence-screenshots)
 
 ### Data Science
 

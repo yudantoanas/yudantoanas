@@ -19,7 +19,7 @@ These are my projects that I have worked on.
 
 ### Mobile App
 
-- [Occurrence](https://github.com/yuda-sandbox/sample-occurrence-screenshots)
+- [Occurrence](https://github.com/yudantoanas/occurrence-app)
 
 ### Data Science
 
